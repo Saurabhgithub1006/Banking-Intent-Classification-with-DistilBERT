@@ -16,7 +16,7 @@ A fine-tuned **DistilBERT** model for classifying banking customer support queri
 
 ---
 
-## 🧠 Model
+##  Model
 
 | Property | Value |
 |---|---|
@@ -27,7 +27,7 @@ A fine-tuned **DistilBERT** model for classifying banking customer support queri
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 banking77-classifier/
@@ -45,7 +45,7 @@ banking77-classifier/
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 The [Banking77](https://huggingface.co/datasets/banking77) dataset contains 13,083 customer service queries from the banking domain, labeled across 77 fine-grained intent classes.
 
