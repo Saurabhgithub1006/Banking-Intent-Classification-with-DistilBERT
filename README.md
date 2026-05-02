@@ -4,7 +4,7 @@ A fine-tuned **DistilBERT** model for classifying banking customer support queri
 
 ---
 
-## 📊 Results
+## Results
 
 | Metric | Score |
 |---|---|
